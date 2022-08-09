@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-09T21:00:42.458Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ApRXwqus2PENjGv_ILdt" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-09T21:01:18.718Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="nVA5lSN1KsUL-W4iy49z" version="20.2.3" type="github">
   <diagram id="7E3PphOksNRB5wIyRZNF" name="Page-1">
     <mxGraphModel dx="3391" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -488,36 +488,33 @@
         <mxCell id="bszduFI5cSAkRBcxnXMb-37" value="&lt;font style=&quot;font-size: 14px&quot;&gt;login&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="465" width="145" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bszduFI5cSAkRBcxnXMb-38" value="" style="endArrow=none;html=1;entryX=0.553;entryY=1.05;entryDx=0;entryDy=0;strokeColor=#A8201A;fontColor=#143642;labelBackgroundColor=#DAD2D8;entryPerimeter=0;" edge="1" parent="1" source="bszduFI5cSAkRBcxnXMb-43" target="bszduFI5cSAkRBcxnXMb-42">
+        <mxCell id="bszduFI5cSAkRBcxnXMb-38" value="" style="endArrow=none;html=1;entryX=0.553;entryY=1.05;entryDx=0;entryDy=0;strokeColor=#A8201A;fontColor=#143642;labelBackgroundColor=#DAD2D8;entryPerimeter=0;" edge="1" parent="1" target="bszduFI5cSAkRBcxnXMb-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="364.99999999999704" y="533.13" as="sourcePoint" />
+            <mxPoint x="557.6982248520708" y="552.5" as="sourcePoint" />
             <mxPoint x="439.9999999999998" y="532.505" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bszduFI5cSAkRBcxnXMb-39" value="" style="endArrow=none;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#A8201A;fontColor=#143642;labelBackgroundColor=#DAD2D8;" edge="1" parent="1" source="bszduFI5cSAkRBcxnXMb-37" target="bszduFI5cSAkRBcxnXMb-43">
+        <mxCell id="bszduFI5cSAkRBcxnXMb-39" value="" style="endArrow=none;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#A8201A;fontColor=#143642;labelBackgroundColor=#DAD2D8;" edge="1" parent="1" source="bszduFI5cSAkRBcxnXMb-37">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="540" as="sourcePoint" />
-            <mxPoint x="459.9999999999998" y="610.625" as="targetPoint" />
+            <mxPoint x="497.5" y="552.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bszduFI5cSAkRBcxnXMb-41" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#A8201A;fontColor=#143642;labelBackgroundColor=#DAD2D8;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="bszduFI5cSAkRBcxnXMb-43">
+        <mxCell id="bszduFI5cSAkRBcxnXMb-41" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#A8201A;fontColor=#143642;labelBackgroundColor=#DAD2D8;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="385" y="572.5" as="sourcePoint" />
-            <mxPoint x="449.5" y="515.62" as="targetPoint" />
+            <mxPoint x="460" y="572.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bszduFI5cSAkRBcxnXMb-42" value="&lt;i&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;User name (PK)&lt;/font&gt;&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fontSize=20;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="445" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bszduFI5cSAkRBcxnXMb-43" value="&lt;b style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;User&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;rounded=1;fontSize=14;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="1">
-          <mxGeometry x="460" y="552.5" width="150" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="bszduFI5cSAkRBcxnXMb-44" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Created&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="662.5" y="522.5" width="145" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bszduFI5cSAkRBcxnXMb-45" value="" style="endArrow=none;html=1;strokeColor=#A8201A;fontColor=#143642;labelBackgroundColor=#DAD2D8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bszduFI5cSAkRBcxnXMb-43" target="bszduFI5cSAkRBcxnXMb-44">
+        <mxCell id="bszduFI5cSAkRBcxnXMb-45" value="" style="endArrow=none;html=1;strokeColor=#A8201A;fontColor=#143642;labelBackgroundColor=#DAD2D8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="bszduFI5cSAkRBcxnXMb-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600.0013613637933" y="552.4996161516552" as="sourcePoint" />
+            <mxPoint x="610" y="592.5" as="sourcePoint" />
             <mxPoint x="653.61" y="600.89" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -569,10 +566,10 @@
             <mxPoint x="200" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bszduFI5cSAkRBcxnXMb-57" value="" style="endArrow=none;html=1;strokeColor=#A8201A;fontColor=#143642;labelBackgroundColor=#DAD2D8;exitX=0.85;exitY=0.694;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bszduFI5cSAkRBcxnXMb-55" target="bszduFI5cSAkRBcxnXMb-43">
+        <mxCell id="bszduFI5cSAkRBcxnXMb-57" value="" style="endArrow=none;html=1;strokeColor=#A8201A;fontColor=#143642;labelBackgroundColor=#DAD2D8;exitX=0.85;exitY=0.694;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bszduFI5cSAkRBcxnXMb-55">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="228.8913613637933" y="460.80961615165523" as="sourcePoint" />
-            <mxPoint x="470" y="550" as="targetPoint" />
+            <mxPoint x="460" y="557.4965928449744" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bszduFI5cSAkRBcxnXMb-58" value="" style="endArrow=none;html=1;strokeColor=#A8201A;fontColor=#143642;labelBackgroundColor=#DAD2D8;" edge="1" parent="1" source="bszduFI5cSAkRBcxnXMb-54">
@@ -581,13 +578,13 @@
             <mxPoint x="815" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bszduFI5cSAkRBcxnXMb-59" value="" style="endArrow=none;html=1;strokeColor=#A8201A;fontColor=#143642;labelBackgroundColor=#DAD2D8;exitX=1.013;exitY=0.138;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bszduFI5cSAkRBcxnXMb-43" target="bszduFI5cSAkRBcxnXMb-54">
+        <mxCell id="bszduFI5cSAkRBcxnXMb-59" value="" style="endArrow=none;html=1;strokeColor=#A8201A;fontColor=#143642;labelBackgroundColor=#DAD2D8;exitX=1.013;exitY=0.138;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="bszduFI5cSAkRBcxnXMb-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="474.65656934306537" y="420.8058394160584" as="sourcePoint" />
+            <mxPoint x="611.9499999999998" y="563.54" as="sourcePoint" />
             <mxPoint x="635.35" y="299.2" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bszduFI5cSAkRBcxnXMb-60" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Orders&lt;/font&gt;&lt;/b&gt;" style="arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=1;" vertex="1" parent="1">
+        <mxCell id="bszduFI5cSAkRBcxnXMb-60" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Orders&lt;/font&gt;&lt;/b&gt;" style="arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="843" width="140" height="77.5" as="geometry" />
         </mxCell>
         <mxCell id="bszduFI5cSAkRBcxnXMb-61" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Payment&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=1;" vertex="1" parent="1">
@@ -604,6 +601,9 @@
         </mxCell>
         <mxCell id="bszduFI5cSAkRBcxnXMb-66" value="&lt;font style=&quot;font-size: 14px&quot;&gt;User status&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="550" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bszduFI5cSAkRBcxnXMb-67" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;User&lt;/font&gt;&lt;/b&gt;" style="arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="555" width="152.5" height="77.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
